@@ -1,4 +1,12 @@
 # Inside the Block: How Solana Validators Order Transactions
+
+> [!IMPORTANT]
+> **OFFICIAL SUPERTEAM EARN SUBMISSION ENTRY & AUTHORSHIP NOTICE**
+> - **Primary Author & Systems Architect:** Apoorv A S ([@apoorv-xs](https://github.com/apoorv-xs) / [@apoorv_xs](https://x.com/apoorv_xs)) // ERAVEX Studio
+> - **Public Prior Art & Architectural Release:** [Published Live on X (Oct 31, 2026)](https://x.com/apoorv_xs/status/2116329722959548462)
+> - **Target Bounty:** Superteam Earn — *Inside the Block: How Solana Validators Order Transactions* ($2,500 USDC)
+> - **Co-Authorship Protocol:** This repository, empirical benchmark harnesses, and architectural dissections are the intellectual property of Apoorv A S. Any submission to Superteam Earn under regional residency guidelines requires prior written authorization and co-authorship attribution with @apoorv-xs. Unauthorized clones or uncredited submissions are monitored and subject to immediate disqualification report to Superteam Earn judges.
+
 **An Empirical & Architectural Dissection of Transaction Scheduling Across Agave, Jito-Solana, and Firedancer**
 
 **Author:** Apoorv A S (`eravex-c137`)  
